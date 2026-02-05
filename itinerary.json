@@ -1,0 +1,42 @@
+{
+  "tripName": "Ultimate USA Adventure",
+  "traveler": {
+    "name": "Nikita Johnson",
+    "contact": {
+      "email": "nikita@example.com",
+      "phone": "+1-555-123-4567"
+    }
+  },
+  "destinations": [
+    {
+      "location": "New York",
+      "arrivalDate": "2026-06-10",
+      "departureDate": "2026-06-14",
+      "activities": [
+        {
+          "title": "Statue of Liberty Tour",
+          "time": "10:00 AM"
+        },
+        {
+          "title": "Broadway Show",
+          "time": "7:30 PM"
+        }
+      ]
+    },
+    {
+      "location": "Los Angeles",
+      "arrivalDate": "2026-06-15",
+      "departureDate": "2026-06-20",
+      "activities": [
+        {
+          "title": "Hollywood Walk of Fame",
+          "time": "11:00 AM"
+        },
+        {
+          "title": "Santa Monica Pier Sunset",
+          "time": "6:30 PM"
+        }
+      ]
+    }
+  ]
+}
