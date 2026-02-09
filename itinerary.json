@@ -22,7 +22,12 @@
           "time": "7:30 PM"
         }
       ]
-    },
+"transportation": {
+  "mode": "Car",
+  "cost": 100.00
+}
+   
+
     {
       "location": "Los Angeles",
       "arrivalDate": "2026-06-15",
@@ -39,4 +44,27 @@
       ]
     }
   ]
+}"transportation": {
+  "mode": "Train",
+  "cost": 75.00
+}
+
+{
+  "location": "Barcelona",
+  "arrivalDate": "2026-06-11",
+  "departureDate": "2026-06-15",
+  "activities": [
+    {
+      "title": "Sagrada Familia Tour",
+      "time": "11:00 AM"
+    },
+    {
+      "title": "Beach Day at Barceloneta",
+      "time": "3:00 PM"
+    }
+  ],
+  "transportation": {
+    "mode": "Flight",
+    "cost": 180.00
+  }
 }
